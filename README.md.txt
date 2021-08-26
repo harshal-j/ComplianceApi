@@ -2,7 +2,7 @@
 
 Notes :- 
 
-1) As there are no network bound operations interactions, I have not added async/await pattern in the code. 
+1) As there are no network bound operations, I have not added async/await pattern in the code. 
 2) Just shown one example test setup and we can build on top of that to unit test all components individually. 
 3) The rules data (i.e can come from config file ( either json or from DB as well, depending on the needs) but they are harcoded in C# files. 
 4) Sample json payload to test the API  
